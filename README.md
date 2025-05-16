@@ -6,11 +6,11 @@ A sleek and interactive weather app that provides real-time weather data based o
 
 ---
 
-## 📸 Screenshots
 
-*(Add your screenshots here, if available)*
 
----
+
+
+
 
 ## 🚀 Features
 
